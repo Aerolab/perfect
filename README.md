@@ -15,6 +15,14 @@ Imagine the situation: You need to do nothing. **BAM!** Perfect™ does exactly 
 
 **Perfect™**  works on all operating systems (past and future) due to its insanely modular architecture. It doesn't even need to be installed to work. If you need to do nothing, **Perfect™** is just the thing for you.
 
+## Security
+
+You should verify you have a genuine, untouched version of **Perfect™**. You can easily do this with cryptographic tools.
+
+The SHA256 fingerprint of **Perfect™** is e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855. 
+
+Fun fact: it actually has the same fingerprint as /dev/null. What are the odds?
+
 ## Why did you make this?
 
 Someone was bragging that they write perfect bug-free software and we kinda wanted to one-up them.
